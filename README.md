@@ -6,12 +6,13 @@
 # Team Profile
 ## Members:
 #### Website & Team Profile:  by Steve Davies and James Phelan
- Group Members: | Links |
----|---
- James Phelan |[Student ID: s3795086](https://j-phelan.github.io)
-| Karla McLachlan|[Student ID: s3775612](https://kammac80.github.io/Karla-My-Profile/)
-|Marty Misomikes|[Student ID: s3756306](https://imiso89.github.io/Marty-Misomikes/)
-| Steve Davies|[Student ID: s0147492](https://s0147492.github.io/Intro2IT/)
+ Group Members: | Links | Profile |
+---|---|---
+ James Phelan |[Student ID: s3795086](https://j-phelan.github.io) | Currently studying a Bachelor of Business (Finance) through RMIT, living on the Central Coast of NSW where I've called home all my life. I enjoy skateboarding, snowboarding & camping in my spare time. I have limited IT knowledge currently but a keen interest in how modern IT applications can be utilised for businesses to grow and improve efficiency.
+| Karla McLachlan|[Student ID: s3775612](https://kammac80.github.io/Karla-My-Profile/) |
+|Marty Misomikes|[Student ID: s3756306](https://imiso89.github.io/Marty-Misomikes/) |
+| Steve Davies|[Student ID: s0147492](https://s0147492.github.io/Intro2IT/) |
+
 
 ---
 

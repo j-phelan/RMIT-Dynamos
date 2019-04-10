@@ -33,22 +33,8 @@ James and Karla are both more focused on analyst roles, leaning towards the busi
 Even though there is shared traits between team members, each person’s career path is different and provides an insight into where one degree can lead to so many different paths. by James Phelan
 
 ---
-#### [GitHub theme jekyll-theme-architect Theme:](https://jekyllthemes.io/theme/architect)
-[GitHub theme:](https://github.com/pages-themes/architect)
-[GitHub architect theme:](https://github.com/pages-themes/architect)
 
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s0147492/RMIT-Dynamos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-
-### [Group Project Links:](https://s0147492.github.io/RMIT-Dynamos/)
+### [Group Project Links:](https://rmit-dynamos.github.io/RMIT-Dynamos/)
 
 
 ### Group Evaluation:
@@ -62,25 +48,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ### Industry Data Report:
 ##### by Marty Misomikes
 
-
-
-
-
-
-
 ---
 # IT Work:
 ## IT Professional Interview: 
 ##### Interview conducted by Steve Davies - Group Questions & Discussion
 Matt Grant - Owner Operator Business IT Contractor
-
-
-
-
-
-
-
-
 
 ---
 
@@ -111,12 +83,16 @@ Matt Grant - Owner Operator Business IT Contractor
 
 ---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### [GitHub theme jekyll-theme-architect Theme:](https://jekyllthemes.io/theme/architect)
+[GitHub theme:](https://github.com/pages-themes/architect)
+[GitHub architect theme:](https://github.com/pages-themes/architect)
+
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RMIT-Dynamos/RMIT-Dynamos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s0147492/RMIT-Dynamos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

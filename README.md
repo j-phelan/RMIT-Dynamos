@@ -6,9 +6,9 @@
 # Team Profile
 ## Members:
 #### Website & Team Profile:  by Steve Davies and James Phelan
-| Group Members: | Links 
-|---|---
-| James Phelan |[Student ID: s3795086](https://j-phelan.github.io)
+ Group Members: | Links 
+---|---
+ James Phelan |[Student ID: s3795086](https://j-phelan.github.io)
 | Karla McLachlan|[Student ID: s3775612](https://kammac80.github.io/Karla-My-Profile/)
 |Marty Misomikes|[Student ID: s3756306](https://imiso89.github.io/Marty-Misomikes/)
 | Steve Davies|[Student ID: s0147492](https://s0147492.github.io/Intro2IT/)

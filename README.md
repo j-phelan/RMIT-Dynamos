@@ -6,7 +6,7 @@
 # Team Profile
 ## Members:
 #### Website & Team Profile:  by Steve Davies and James Phelan
- Group Members: | Links 
+ Group Members: | Links |
 ---|---
  James Phelan |[Student ID: s3795086](https://j-phelan.github.io)
 | Karla McLachlan|[Student ID: s3775612](https://kammac80.github.io/Karla-My-Profile/)

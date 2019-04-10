@@ -1,7 +1,7 @@
 # RMIT-Dynamos
-## [RMIT Dynamos - Introduction2IT Assignment Group 16](https://s0147492.github.io/RMIT-Dynamos/index.html)
+## [RMIT Dynamos - Introduction2IT Assignment Group 16](https://rmit-dynamos.github.io/RMIT-Dynamos/)
 
-[GitHub:](https://github.com/s0147492/RMIT-Dynamos)
+[GitHub:](https://github.com/RMIT-Dynamos)
 
 # Team Profile
 ## Members:
@@ -47,10 +47,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-
-
-
-```
 
 ### [Group Project Links:](https://s0147492.github.io/RMIT-Dynamos/)
 
@@ -114,7 +110,6 @@ Matt Grant - Owner Operator Business IT Contractor
 ##### by All Group Members
 
 ---
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

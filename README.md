@@ -1,19 +1,17 @@
 # RMIT-Dynamos
-## [RMIT Dynamos - Introduction to Information Technology - Assignment Group 16](https://rmit-dynamos.github.io/RMIT-Dynamos/)
-
-[GitHub: (https://github.com/RMIT-Dynamos)]
+[GitHub Home Link]: (https://github.com/RMIT-Dynamos)
 
 # Team Profile
 ## Members:
-Group Members:
-James Phelan |[Student Github: s3795086](https://j-phelan.github.io)  
-Currently studying a Bachelor of Business (Finance) through RMIT, living on the Central Coast of NSW where I've called home all my life. I enjoy skateboarding, snowboarding & camping in my spare time. I have limited IT knowledge currently but a keen interest in how modern IT applications can be utilised for businesses to grow and improve efficiency.  
-Karla McLachlan|[Student Github: s3775612](https://kammac80.github.io/Karla-My-Profile/)  
-Enrolled at RMIT and on my way to completing a degree in IT. I love to be creative so in my spare time you can usually find me either painting, drawing or restoring old furniture. I have been working as a social media manager for the past 5 years and looking forward to expanding my knowledge of the IT industry and advance my career more towards IT Data analysis.  
-Marty Misomikes|[Student Github: s3756306](https://imiso89.github.io/Marty-Misomikes/)  
-Currently studying a Bachelor of Information Technology though RMIT and OUA. I have lived in Sydney since I moves to Australia from Greece when I was years old. I am a massive football (soccer) fan, both playing/ coaching and watching and I have always loved playing around with technology in my spare time. My knowledge may be limited in with IT but I am very keen to learn and improve my my skills.
-Steve Davies|[Student Github: s0147492](https://s0147492.github.io/Intro2IT/)  
-Upskilling via Bachelor of Information Technology through RMIT and OUA, Moved from Melbourne to North East Victoria two years ago. Hobbies include IT, Memorabilia, Photography, History, Genealogy and Church Volunteering. Extensive Hardware upgrade and OS support, yet due to Carer rolls have limited current experience.
+Group Members:<br/>
+James Phelan |[Student Github: s3795086](https://j-phelan.github.io)  <br/>
+Currently studying a Bachelor of Business (Finance) through RMIT, living on the Central Coast of NSW where I've called home all my life. I enjoy skateboarding, snowboarding & camping in my spare time. I have limited IT knowledge currently but a keen interest in how modern IT applications can be utilised for businesses to grow and improve efficiency.<br/>
+Karla McLachlan|[Student Github: s3775612](https://kammac80.github.io/Karla-My-Profile/)  <br/>
+Enrolled at RMIT and on my way to completing a degree in IT. I love to be creative so in my spare time you can usually find me either painting, drawing or restoring old furniture. I have been working as a social media manager for the past 5 years and looking forward to expanding my knowledge of the IT industry and advance my career more towards IT Data analysis.<br/>  
+Marty Misomikes|[Student Github: s3756306](https://imiso89.github.io/Marty-Misomikes/)  <br/>
+Currently studying a Bachelor of Information Technology though RMIT and OUA. I have lived in Sydney since I moves to Australia from Greece when I was years old. I am a massive football (soccer) fan, both playing/ coaching and watching and I have always loved playing around with technology in my spare time. My knowledge may be limited in with IT but I am very keen to learn and improve my my skills.<br/>
+Steve Davies|[Student Github: s0147492](https://s0147492.github.io/Intro2IT/)  <br/>
+Upskilling via Bachelor of Information Technology through RMIT and OUA, Moved from Melbourne to North East Victoria two years ago. Hobbies include IT, Memorabilia, Photography, History, Genealogy and Church Volunteering. Extensive Hardware upgrade and OS support, yet due to Carer rolls have limited current experience.<br/>
 ---
 
 ## Psychometrics Report Findings:
